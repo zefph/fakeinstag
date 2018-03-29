@@ -3,11 +3,11 @@
 one:
   file: MyString
   desc: MyString
-  user: 
+  user: MyString
   date: 2018-03-29
 
 two:
   file: MyString
   desc: MyString
-  user: 
+  user: MyString
   date: 2018-03-29
